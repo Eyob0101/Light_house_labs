@@ -3,3 +3,4 @@ Hello this is a test for git
 I would like to add a few words in the txt 
 
 some more things to say
+the other thing is that
